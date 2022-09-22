@@ -3,6 +3,7 @@ import pytest
 
 def always_returns_true():
     print("Hello")
+    print ("kat's change #2")
     return True
 
 
