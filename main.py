@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    print("Hello")
     return True
 print("you are completely correct")
 
